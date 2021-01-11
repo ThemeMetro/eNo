@@ -3,7 +3,7 @@ The WHMCS Theme
 #### Supported WHMCS 8.1 Stable Release.
 
 ## &nbsp;&nbsp;
-ThemeMetro now offering this theme free forever, you are free to use it, update and modify it without any restriction.
+### ThemeMetro now offering this theme free forever, you are free to use it, update and modify it without any restriction.
 ## &nbsp;&nbsp;
 
 #### The following steps will guide you through the installation process:
